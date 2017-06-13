@@ -88,7 +88,7 @@ function create_config( )
 		"plugins",
 		"tools",
                 "del",
-                "delall,
+                "delall",
                 "cleanbot",
                 "addkick",
 		"fun",
